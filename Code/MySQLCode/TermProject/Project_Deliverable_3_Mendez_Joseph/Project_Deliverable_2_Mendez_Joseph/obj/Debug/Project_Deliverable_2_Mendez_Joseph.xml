@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project_Deliverable_2_Mendez_Joseph
+</name>
+</assembly>
+<members>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Project_Deliverable_2_Mendez_Joseph.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Project_Deliverable_2_Mendez_Joseph.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CUSTOMERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DEVELOPERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DIRECTORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DLCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.EMPLOYEEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAME_TIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIE_TIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.PARENT_COMPANYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.TIERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CustomerTierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MaxAgeByTierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MinAgeByTierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.NumOfCustByTierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GameTierSuperSubDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CUSTOMERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DEVELOPERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DIRECTORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DLCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.EMPLOYEERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAME_TIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIE_TIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.PARENT_COMPANYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.TIERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CustomerTierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MaxAgeByTierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MinAgeByTierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.NumOfCustByTierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GameTierSuperSubRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CUSTOMERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DEVELOPERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DIRECTORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.DLCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.EMPLOYEERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GAME_TIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MOVIE_TIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.PARENT_COMPANYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.TIERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.CustomerTierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MaxAgeByTierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.MinAgeByTierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.NumOfCustByTierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet.GameTierSuperSubRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.CUSTOMERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.DEVELOPERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.DIRECTORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.DLCTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.EMPLOYEETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.GAMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.GAME_TIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.MOVIETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.MOVIE_TIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.PARENT_COMPANYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TIERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.CustomerTierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.MaxAgeByTierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.MinAgeByTierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.NumOfCustByTierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.GameTierSuperSubTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Project_Deliverable_2_Mendez_Joseph.Deliverable_2_DatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
